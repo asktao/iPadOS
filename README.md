@@ -11,7 +11,7 @@ What I installed in my iPadOS
 * [Developer Tools](#developer-tools)
 * [Education](#education)
 * [Entertainment](#entertainment)
-* [Graphics & Design](#graphics-design)
+* [Graphics & Design](#graphics-&-design)
 * [Lifestyle](#lifestyle)
 * [Magazines & Newspapers](#magazines-newspapers)
 * [Music](#music)
@@ -87,7 +87,8 @@ What I installed in my iPadOS
  -Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries.
 #### Sketchfab
  -The leading platform for 3D & AR on the web - Sign Up Free! Collaboration Tools.
-#### iTunes Remote   📱
+#### iTunes Remote  📱
+#### Time Capsule  📱
 
 ### Graphics & Design
 
@@ -102,7 +103,7 @@ What I installed in my iPadOS
 #### lazyshare
  -Painting brushes sharing.
 #### Adobe Lightroom for iPad
-#### Adobe Capture
+#### Adobe Capture 📱
 #### Color Collect
 #### GIPHY
 #### JigSpace
@@ -129,10 +130,10 @@ What I installed in my iPadOS
 
 #### Music Memos  📱
 #### Logic Remote  📱
-#### Monster Chords
+#### Monster Chords 📱
 #### AudioKit Synth One Synthesizer
 #### Shazam
-#### GarageBand
+#### GarageBand  📱
  -GarageBand is a line of digital audio workstations.
 #### QQ音乐HD
 #### Auxy Studio
@@ -146,7 +147,7 @@ What I installed in my iPadOS
 
 #### Affinity Photo
  -Affinity Photo is a raster graphics editor.
-#### Pixelmator Pro
+#### Pixelmator Pro 📱 💻
  -Pixelmator Pro includes a stunning collection of handcrafted dual-texture brushes, full graphics tablet support, and advanced paint blending technologies.
 #### Unsplash
 #### ArtStation App
@@ -156,10 +157,10 @@ What I installed in my iPadOS
 #### iMove  📱 💻
  -iMovie is a video editing software application.
 #### PhotoPhix
-#### Imaging Edge Mobile
+#### Imaging Edge Mobile 📱
 #### Monitor+
  -Monitor+ turns your phone into a professional camera monitor instantly.
-#### YouTube
+#### YouTube 📱
 #### VLC
 
 
@@ -171,20 +172,20 @@ What I installed in my iPadOS
  -Numbers is a spreadsheet application.
 #### Pages  📱 💻
  -Pages is a word processor.
-#### Notion
+#### Notion 📱 💻
  -A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
-#### GoodNotes
+#### GoodNotes 📱 💻
  -Discover the note-taking app loved by students, digital planners, notetakers all over the world.
-#### Notability
+#### Notability 📱 💻
  -Combine handwriting, photos and typing in a single note to bring your projects to life.
-#### Evernote
+#### Evernote 📱 💻
 #### XMind
 #### Microsoft OneNote
 #### Paper by WeTransfer
 #### Chartistic
 #### Shapr 3D CAD modeling
 #### Whiteboard Easy and Smart
-#### Obsidian
+#### Obsidian 📱 💻
  -Obsidian: A knowledge base that works on local Markdown files.
 #### InfDraft
 #### Joyplan
@@ -192,8 +193,8 @@ What I installed in my iPadOS
 
 ### Reference
 
-#### Merriam-Webster Dictionary
-#### 欧陆英语词典 Eudic
+#### Merriam-Webster Dictionary 📱
+#### 欧路英语词典 Eudic 📱 💻 
 #### Terminology Dictionary
 #### Pleco Chinese Dictionary
 #### Yunzhang
@@ -214,7 +215,7 @@ What I installed in my iPadOS
 #### CNKI全球学术快报
 #### Reality Composer  📱
 #### APlayer - Alook Player
-#### Indoor Survey
+#### Indoor Survey  📱
 #### KingDrawHD
 #### Apple Music for Artists
 #### 3d Scanner App
