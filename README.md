@@ -132,10 +132,9 @@ What I installed in my iPadOS
 #### Logic Remote  📱
 #### Monster Chords 📱
 #### AudioKit Synth One Synthesizer
-#### Shazam
+#### Shazam  📱
 #### GarageBand  📱
  -GarageBand is a line of digital audio workstations.
-#### QQ音乐HD
 #### Auxy Studio
 #### Piascore
 
@@ -217,7 +216,7 @@ What I installed in my iPadOS
 #### APlayer - Alook Player
 #### Indoor Survey  📱
 #### KingDrawHD
-#### Apple Music for Artists
+#### Apple Music for Artists  📱
 #### 3d Scanner App
 #### Pose Arch
  -Find a good pose soon
