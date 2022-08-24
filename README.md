@@ -205,7 +205,6 @@ What I installed in my iPadOS
 
 ### Social Networking
 
-#### Wechat
 #### Product Hunt
 
 ### Utilities
