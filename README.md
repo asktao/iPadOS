@@ -128,7 +128,6 @@ What I installed in my iPadOS
 
 ### Music
 
-#### Music Memos  📱
 #### Logic Remote  📱
 #### Monster Chords 📱
 #### AudioKit Synth One Synthesizer
@@ -216,7 +215,6 @@ What I installed in my iPadOS
 #### Indoor Survey  📱
 #### KingDrawHD
 #### Apple Music for Artists  📱
-#### 3d Scanner App
 #### Pose Arch
  -Find a good pose soon
 #### Dash
