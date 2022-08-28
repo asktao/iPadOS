@@ -24,6 +24,8 @@ What I installed in my iPadOS
 * [Medical](#medical)
 * [Games](#games)
 * [Shopping](#shopping)
++ [iOS](#iOS-)
++ [macOS](#macOS-)
 
 ### Books
 
@@ -234,6 +236,12 @@ What I installed in my iPadOS
 
 #### Apple Store  📱
 #### Artsy
+
+## [iOS 📱](https://github.com/asktao/iOS)
+ -What I installed in my iOS
+## [macOS 💻](https://github.com/asktao/macOS)
+ -What I installed in my macOS
+
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
