@@ -116,6 +116,8 @@ What I installed in my iPadOS
 #### Morpholio Trace - Sketch CAD
 #### Tayasui Sketches Pro
 #### Mental Canvas Draw
+#### Vectornator 📱 💻
+ -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tool    s & automating routine problems faced in the area.
 
 ### Lifestyle
 
