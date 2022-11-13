@@ -84,8 +84,6 @@ What I installed in my iPadOS
 #### Autodesk SketchBook
 #### Fluid Simulation
 #### Asketch
-#### Netflix
- -Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries.
 #### Sketchfab
  -The leading platform for 3D & AR on the web - Sign Up Free! Collaboration Tools.
 #### iTunes Remote  📱
