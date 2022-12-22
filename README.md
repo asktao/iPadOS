@@ -171,8 +171,6 @@ What I installed in my iPadOS
  -Numbers is a spreadsheet application.
 #### Pages  📱 💻
  -Pages is a word processor.
-#### FreeForm  📱 💻
- -Freeform is a great place to bring your ideas to life. Sketch out a project, design a mood board or start a brainstorming session on a flexible canvas that supports almost any kind of file.
 #### Notion 📱 💻
  -A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.
 #### GoodNotes 📱 💻
