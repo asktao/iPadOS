@@ -68,7 +68,6 @@ What I installed in my iPadOS
 #### Desmos Graphing Calculator
 #### Desmos Test Mode
 #### Desmos Scientific Calculator
-#### 词根词缀字典
 #### DailyArt
 #### 一席HD
 #### 腾讯网课
