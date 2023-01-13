@@ -131,7 +131,7 @@ What I installed in my iPadOS
 #### Logic Remote  📱
 #### Monster Chords 📱
 #### AudioKit Synth One Synthesizer
-#### Shazam  📱
+#### Shazam  📱 💻
 #### GarageBand  📱
  -GarageBand is a line of digital audio workstations.
 #### Auxy Studio
@@ -160,6 +160,7 @@ What I installed in my iPadOS
  -Monitor+ turns your phone into a professional camera monitor instantly.
 #### YouTube 📱
 #### VLC
+#### DaVinci Resolve
 
 
 ### Productivity
