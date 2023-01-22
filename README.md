@@ -158,7 +158,7 @@ What I installed in my iPadOS
 #### Monitor+
  -Monitor+ turns your phone into a professional camera monitor instantly.
 #### YouTube 📱
-#### VLC
+#### VLC 📱 💻
 #### DaVinci Resolve
 
 
