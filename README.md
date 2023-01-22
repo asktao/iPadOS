@@ -219,6 +219,7 @@ What I installed in my iPadOS
  -Find a good pose soon
 #### Dash
 #### Sketch Mirror
+#### Shadowrocket 📱
 
 ### Medical
 
