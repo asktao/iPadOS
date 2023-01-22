@@ -42,6 +42,9 @@ What I installed in my iPadOS
  -iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.
 #### Apple Developer  📱 💻
 #### TestFlight  📱 💻
+#### App Store Connect  📱
+#### Interactful
+#### Libraried
 
 ### Education
 
@@ -74,12 +77,16 @@ What I installed in my iPadOS
 #### MAU M&L Natural History
 #### Notes - Sight Reading Trainer
 #### Froggipedia
+#### Udemy
+#### WolframAlpha
+#### 以观书法
+#### 掌上碑帖
 
 ### Entertainment
 
 #### Apple Podcasts  📱 💻
 #### 哔哩哔哩HD
-#### Autodesk SketchBook
+#### SketchBook
 #### Fluid Simulation
 #### Asketch
 #### Sketchfab
@@ -158,7 +165,7 @@ What I installed in my iPadOS
 #### Monitor+
  -Monitor+ turns your phone into a professional camera monitor instantly.
 #### YouTube 📱
-#### VLC 📱 💻
+#### VLC media player 📱 💻
 #### DaVinci Resolve
 
 
@@ -178,7 +185,7 @@ What I installed in my iPadOS
  -Combine handwriting, photos and typing in a single note to bring your projects to life.
 #### Evernote 📱 💻
 #### XMind
-#### Microsoft OneNote
+#### Microsoft OneNote 📱 💻
 #### Paper by WeTransfer
 #### Chartistic
 #### Shapr 3D CAD modeling
@@ -195,12 +202,10 @@ What I installed in my iPadOS
 #### 欧路英语词典 Eudic 📱 💻 
 #### Terminology Dictionary
 #### Pleco Chinese Dictionary
-#### Yunzhang
+#### Yunzhang calligraphy
 #### Mactracker
 #### Pantone Connect
  -Pantone Connect is a new powerful platform that lets designers access Pantone Color Libraries, color values.
-#### Pantone Studio
- -Capture your world in PANTONE Color, build and create palettes to test on 3D-rendered materials & designs.
 
 ### Social Networking
 
@@ -225,6 +230,7 @@ What I installed in my iPadOS
 
 #### 3Dbody解刨学
 #### 默沙东诊疗中文专业版
+#### 3D Anatomy
 
 ### Games
 
