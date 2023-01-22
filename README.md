@@ -35,14 +35,13 @@ What I installed in my iPadOS
 #### 极客时间
 #### 国家地理
 #### 博看书苑
-#### 喜马拉雅HD
 
 ### Developer Tools
 
 #### iSH Shell
  -iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.
 #### Apple Developer  📱 💻
-#### TestFlight  📱
+#### TestFlight  📱 💻
 
 ### Education
 
