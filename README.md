@@ -69,7 +69,7 @@ What I installed in my iPadOS
 #### Desmos Scientific Calculator
 #### DailyArt
 #### 一席HD
-#### 腾讯网课
+#### 腾讯课堂
 #### 网易公开课
 #### MAU M&L Natural History
 #### Notes - Sight Reading Trainer
