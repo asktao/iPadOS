@@ -19,7 +19,6 @@ What I installed in my iPadOS
 * [Photo & Video](#photo--video)
 * [Productivity](#productivity)
 * [Reference](#reference)
-* [Social Networking](#social-networking)
 * [Utilities](#utilities)
 * [Medical](#medical)
 * [Games](#games)
@@ -206,10 +205,6 @@ What I installed in my iPadOS
 #### Mactracker
 #### Pantone Connect
  -Pantone Connect is a new powerful platform that lets designers access Pantone Color Libraries, color values.
-
-### Social Networking
-
-#### Product Hunt
 
 ### Utilities
 
