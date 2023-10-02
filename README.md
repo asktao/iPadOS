@@ -12,6 +12,7 @@ What I installed in my iPadOS
 * [Education](#education)
 * [Entertainment](#entertainment)
 * [Graphics & Design](#graphics--design)
+* [Health & Fitness](#health--fitness)
 * [Lifestyle](#lifestyle)
 * [Magazines & Newspapers](#magazines--newspapers)
 * [Music](#music)
@@ -119,6 +120,9 @@ What I installed in my iPadOS
 #### Mental Canvas Draw
 #### Vectornator 📱 💻
  -Vectornator is a graphic design software, developed by Linearity GmbH, that simplifies the design creation process for designers by providing intuitive tool    s & automating routine problems faced in the area.
+
+### Health & Fitness
+#### Health
 
 ### Lifestyle
 
