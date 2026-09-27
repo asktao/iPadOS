@@ -49,7 +49,6 @@ What I installed in my iPadOS
 ### Education
 
 #### WikiArt
-#### Researcher
 #### edX
 #### Coursera
 #### Khan Academy
@@ -186,7 +185,6 @@ What I installed in my iPadOS
  -Discover the note-taking app loved by students, digital planners, notetakers all over the world.
 #### Notability 📱 💻
  -Combine handwriting, photos and typing in a single note to bring your projects to life.
-#### Evernote 📱 💻
 #### XMind
 #### Microsoft OneNote 📱 💻
 #### Paper by WeTransfer
